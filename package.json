@@ -1,0 +1,19 @@
+{
+  "name": "lendsqr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "lendsqr": "file:"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
